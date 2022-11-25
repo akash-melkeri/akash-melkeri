@@ -7,6 +7,7 @@
 QnA
 
 John Doe : "Hey Akash, How come you have these many projects, But not matching number of commits?"
+
 Akash : "I used to think that github is just for uploading projects. So I used to create projects and upload whole project in single commit-push. There is A plausible reason for me thinking that way. When I first started using github, I had no mentor to show me things like this. So..."
 
 John Doe : "I noticed that you have only website projects and scripts. So are you a web developer?"
