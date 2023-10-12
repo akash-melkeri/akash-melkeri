@@ -23,3 +23,6 @@ John Doe : "Just out curiosity, can you ellaborate on these projects?"
 Akash : "Why not! I have many types of projects. I have scripts for web scraping, Automation,etc. For android development, I am working on music app. There are many other projects as well. But it won't be feasible for a reader to read about them here in readme.md. So I am also working on a portfolio website for me. I will be showcasing my projects there."
 
 That's it . If you have other questions, you can contact me.
+
+HACKTOBERFEST
+[![An image of @akashmelkeri's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akashmelkeri)](https://holopin.io/@akashmelkeri)
